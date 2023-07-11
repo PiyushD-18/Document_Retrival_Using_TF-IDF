@@ -1,6 +1,8 @@
 # Document_Retrival_Using_TF-IDF
 Ranks documents based on query relevance using cosine similarity. Expands query using association rules to include additional relevant terms.
-**#OUTPUT**
+
+
+#OUTPUT
 
 Enter the number of documents: 3
 Enter document 1: The quick brown fox jumps over the lazy dog
